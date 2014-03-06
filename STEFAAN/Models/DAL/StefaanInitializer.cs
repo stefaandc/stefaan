@@ -30,6 +30,7 @@ namespace STEFAAN.Models.DAL
                     Email = "anneleen.bekkens@hogent.be",
                     PC = "9000",
                     Gemeente = "Gent",
+                    Land = "Belgium",
                     Wachtwoord = Encrypt.EncryptPassword("hogent")
                 };
 
