@@ -31,6 +31,7 @@ namespace STEFAAN.Models.DAL
                     PC = "9000",
                     Gemeente = "Gent",
                     Land = "Belgium",
+                    Actief = true,
                     Wachtwoord = Encrypt.EncryptPassword("hogent")
                 };
 

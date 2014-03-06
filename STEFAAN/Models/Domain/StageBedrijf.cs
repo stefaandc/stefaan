@@ -16,6 +16,7 @@ namespace STEFAAN.Models.Domain
         public string PC { get; set; }
         public string Gemeente { get; set; }
         public string Land { get; set; }
+        public bool Actief { get; set; }
         public string Wachtwoord { get; set; }
         //public virtual City City { get; set; }
         //public virtual ICollection<Order> Orders { get; private set; }
