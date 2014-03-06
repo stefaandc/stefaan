@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "STEFAAN", "STEFAAN\STEFAAN.csproj", "{F474C531-74A8-4F71-84A4-8DE3BFC5C090}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "STEFAAN.Tests", "STEFAAN.Tests\STEFAAN.Tests.csproj", "{625286FE-5C7A-4728-BC54-33BF2BF7337F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F474C531-74A8-4F71-84A4-8DE3BFC5C090}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F474C531-74A8-4F71-84A4-8DE3BFC5C090}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F474C531-74A8-4F71-84A4-8DE3BFC5C090}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F474C531-74A8-4F71-84A4-8DE3BFC5C090}.Release|Any CPU.Build.0 = Release|Any CPU
+		{625286FE-5C7A-4728-BC54-33BF2BF7337F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{625286FE-5C7A-4728-BC54-33BF2BF7337F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{625286FE-5C7A-4728-BC54-33BF2BF7337F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{625286FE-5C7A-4728-BC54-33BF2BF7337F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
